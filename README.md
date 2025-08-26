@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I am a **Fullstack Developer** with over **6 years of experience** designing and building innovative, scalable, and cloud-ready applications. My work focuses on delivering impactful solutions by blending strong technical skills with a solid understanding of business needs.
 
-![Profile Views](https://komarev.com/ghpvc/?username=LekeOmotayo&color=blue)
-
 ### Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -27,12 +25,12 @@ Welcome to my GitHub profile! I am a **Fullstack Developer** with over **6 years
 
 ## 🚀 About Me
 
-* **Fullstack Expertise:** Proficient in **React, Angular, Node.js, TypeScript, Java, Spring Boot, Spring Framework, JPA/Hibernate**, and **Flutter**, delivering robust web and mobile experiences.
-* **Cloud Architectures:** Experienced in building distributed systems with **AWS (CDK, Lambda, API Gateway, DynamoDB, S3)** and other cloud-native technologies.
+* **Fullstack Expertise:** Proficient in **React, Angular, Node.js, Nest.js, TypeScript, Java, Spring Boot, Spring Framework,** and **JPA/Hibernate**, delivering robust web and mobile experiences.
+* **Cloud Architectures:** Experienced in building distributed systems with **AWS (CDK, Lambda, API Gateway, DynamoDB, SNS, SQS, S3, EventBridge, VPC)**. **GCP (PubSub, Cloud Run, Cloud Funtions, Firestore)** and other cloud-native technologies.
 * **Software Design & Patterns:** Passionate about clean architecture, reusable components, and scalable design patterns.
-* **Auth & Security:** Skilled in designing centralised authentication flows with **JWT, federated logins, Passport (NestJS)**, and role-based access control similar to **AWS IAM**.
-* **SaaS & Enterprise Systems:** Experienced in designing and implementing diverse business and productivity platforms, covering areas like customer management, commerce, and operational tools.
-* **DevOps & Automation:** Familiar with **GitHub Actions**, CI/CD pipelines, and backend automation.
+* **Auth & Security:** Skilled in designing centralised authentication flows with **OAuth2, JWT, Pederated logins, Passport (NestJS)**, and **role-based access control** similar to **AWS IAM**.
+* **SaaS & Enterprise Systems:** Experienced in designing and implementing diverse business and productivity platforms, covering areas like customer management, commerce, and operational tools, health, finance.
+* **DevOps & Automation:** Familiar with **GitHub Actions**, **Gitlab CI/CD**, **Jenkins**, CI/CD pipelines, and backend automation.
 * **Tooling & Libraries:** Focused on creating **npm packages**, utilities, and internal libraries.
 
 ---
@@ -49,8 +47,9 @@ Welcome to my GitHub profile! I am a **Fullstack Developer** with over **6 years
 
 ## 🏆 Projects and Highlights
 
+* **Enterprise Node.js Apps**: Robust systems using **Nestjs framework**, **Nodejs express**, and **REST APIs**.
 * **Enterprise Java Apps**: Robust systems using **Spring Boot**, **Spring Data JPA**, and **REST APIs**.
-* **Utility Libraries**: Reusable components and libraries for development teams.
+* **Utility Libraries**: Reusable ui components and libraries for development teams.
 
 ---
 
